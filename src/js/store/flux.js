@@ -35,6 +35,7 @@ const getState = ({ getStore, getActions, setStore }) => {
 				}
 			],
 			vehicles: [],
+			favorites: [],
 		},
 		actions: {
 			loadStarWars: () => {

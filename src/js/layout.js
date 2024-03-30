@@ -6,9 +6,9 @@ import { Demo } from "./views/demo";
 import injectContext from "./store/appContext";
 
 import { Navbar } from "./component/navbar";
-import HomeGrid from './component/homegrid';
-import PersonDetails from './component/personDetails'
-import PlanetDetails from './component/planetDetails'
+import HomeGrid from './views/homegrid';
+import PersonDetails from './views/personDetails'
+import PlanetDetails from './views/planetDetails'
 
 //create your first component
 const Layout = () => {

@@ -1,0 +1,6 @@
+.spacecard{
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: scroll;
+    scroll-behavior: smooth;
+}
